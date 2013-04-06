@@ -73,6 +73,6 @@ This module requires the presence of Example42 Puppi module in your modulepath.
         }
 
 
-## CONTINUOUS TESTING
 
-Travis {<img src="https://travis-ci.org/example42/puppet-minimal42.png?branch=master" alt="Build Status" />}[https://travis-ci.org/example42/puppet-minimal42]
+## TESTING
+[![Build Status](https://travis-ci.org/example42/puppet-minimal42.png?branch=master)](https://travis-ci.org/example42/puppet-minimal42)
